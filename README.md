@@ -12,7 +12,7 @@ A simple Node.js server built with Express that returns my details in JSON forma
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/assignment-001.git
+git clone https://github.com/muhammadabba200/Siwes-Assignment001.git
 ```
 
 2. Navigate into the project
