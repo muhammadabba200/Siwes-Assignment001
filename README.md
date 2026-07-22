@@ -18,7 +18,7 @@ git clone https://github.com/muhammadabba200/Siwes-Assignment001.git
 2. Navigate into the project
 
 ```bash
-cd assignment-001
+cd Siwes-Assignment001
 ```
 
 3. Install dependencies
