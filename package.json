@@ -1,0 +1,12 @@
+{
+  "name": "assignment-001",
+  "version": "1.0.0",
+  "description": "Assignment 001 - Node.js Express Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
